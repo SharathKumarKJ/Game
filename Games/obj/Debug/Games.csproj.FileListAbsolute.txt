@@ -1,0 +1,7 @@
+C:\Users\kjsha\source\repos\Games\Games\bin\Debug\Games.exe.config
+C:\Users\kjsha\source\repos\Games\Games\bin\Debug\Games.exe
+C:\Users\kjsha\source\repos\Games\Games\bin\Debug\Games.pdb
+C:\Users\kjsha\source\repos\Games\Games\obj\Debug\Games.csprojResolveAssemblyReference.cache
+C:\Users\kjsha\source\repos\Games\Games\obj\Debug\Games.csproj.CoreCompileInputs.cache
+C:\Users\kjsha\source\repos\Games\Games\obj\Debug\Games.exe
+C:\Users\kjsha\source\repos\Games\Games\obj\Debug\Games.pdb
